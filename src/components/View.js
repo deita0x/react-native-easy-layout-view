@@ -16,8 +16,6 @@ const View = props => {
     ...StyleHelper.extractMargin(props),
   };
 
-  console.log('baseStyle', baseStyle);
-
   return (
     <StyledView style={[baseStyle, props.style]}>
       {props.children}

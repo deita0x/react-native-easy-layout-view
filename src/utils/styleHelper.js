@@ -64,7 +64,6 @@ const StyleHelper = {
   },
 
   extractAlignmentsValues: props => {
-    console.log('extractAlignmentsValues', props);
     const { row, center } = props;
     const alignments = {};
     const alignmentRules = {};
