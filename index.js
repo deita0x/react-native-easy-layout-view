@@ -1,3 +1,3 @@
-import { View } from '@components';
+import { View } from './src/components';
 
 export { View };
