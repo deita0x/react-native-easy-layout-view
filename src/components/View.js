@@ -1,7 +1,7 @@
 import React from 'react';
 import { View as RNView, SafeAreaView } from 'react-native';
 
-import { StyleHelper } from '@utils';
+import { StyleHelper } from '../utils';
 
 const View = props => {
   const { useSafeArea } = props;
