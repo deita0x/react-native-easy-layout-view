@@ -2,6 +2,11 @@
 
 It is a simple and intuitive way to implement templates commonly used in applications, they are a good starting point to build screen designs even without knowing the basic rules of flex-box.
 
+## Demo
+Run the [example app](https://expo.io/@deita0x/react-native-easy-layout-view) with [Expo](https://expo.io/) to see it in action.
+
+The source code for the examples are under the [/example](/example) folder.
+
 ## Features
 - Pure JS.
 - Supports every prop that the standard React Native `View` component supports.
